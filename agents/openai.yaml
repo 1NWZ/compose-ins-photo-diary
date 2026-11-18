@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ins 风照片日记"
+  short_description: "将三至六张原图排成有留白的杂志感照片日记，只生成背景并保留原图"
+  default_prompt: "用 $compose-ins-photo-diary 把我上传的照片做成一张 3:4 Ins 风照片日记，保留全部原图，由你选择模式和背景。"
